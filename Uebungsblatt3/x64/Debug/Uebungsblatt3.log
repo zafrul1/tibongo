@@ -1,0 +1,15 @@
+﻿  Aufgabe.cpp
+  Console.cpp
+  Cursor.cpp
+  Position.cpp
+  SimpleInput.cpp
+  Spiel.cpp
+  Spielstein.cpp
+  Tibongo.cpp
+  Generating Code...
+D:\Downloads\SS22_PRG2_Uebungsblatt_3_Tibongo_Hilfsdateien\SS22_PRG2_Uebungsblatt_3_Tibongo_Hilfsdateien\Spielstein.cpp(826): warning C4715: 'Spielstein::ueberlapp': not all control paths return a value
+D:\Downloads\SS22_PRG2_Uebungsblatt_3_Tibongo_Hilfsdateien\SS22_PRG2_Uebungsblatt_3_Tibongo_Hilfsdateien\Spielstein.cpp(809): warning C4715: 'Spielstein::innerhalb': not all control paths return a value
+D:\Downloads\SS22_PRG2_Uebungsblatt_3_Tibongo_Hilfsdateien\SS22_PRG2_Uebungsblatt_3_Tibongo_Hilfsdateien\Spielstein.cpp(866): warning C4715: 'Spielstein::operator+': not all control paths return a value
+D:\Downloads\SS22_PRG2_Uebungsblatt_3_Tibongo_Hilfsdateien\SS22_PRG2_Uebungsblatt_3_Tibongo_Hilfsdateien\Spiel.cpp(194): warning C4715: 'Spiel::eingabeErlaubt': not all control paths return a value
+D:\Downloads\SS22_PRG2_Uebungsblatt_3_Tibongo_Hilfsdateien\SS22_PRG2_Uebungsblatt_3_Tibongo_Hilfsdateien\Aufgabe.cpp(35): warning C4715: 'Aufgabe::geloest': not all control paths return a value
+  Uebungsblatt3.vcxproj -> C:\Users\Zafrul Huzail\source\repos\tibongo\x64\Debug\Uebungsblatt3.exe

@@ -1,0 +1,3 @@
+﻿  Spiel.cpp
+D:\Downloads\SS22_PRG2_Uebungsblatt_3_Tibongo_Hilfsdateien\SS22_PRG2_Uebungsblatt_3_Tibongo_Hilfsdateien\Spiel.cpp(192): warning C4715: 'Spiel::eingabeErlaubt': not all control paths return a value
+  Uebungsblatt3.vcxproj -> C:\Users\Zafrul Huzail\source\repos\Uebungsblatt3\Debug\Uebungsblatt3.exe
